@@ -1,6 +1,9 @@
 # Stir Fry {#StirFry}
 
 ## Tomato eggs with green peppers
+```{r, echo=FALSE}
+knitr::include_graphics("./images/tomato_egg.jpeg")
+```
 
 ### Meta
 * Prep Time: 10 minutes
